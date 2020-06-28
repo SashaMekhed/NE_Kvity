@@ -576,7 +576,7 @@ img.imgKvity {
 }
 }
 
-@media only screen and (min-width : 481px)  and (max-width: 640px){
+@media only screen and (min-width : 481px)  and (max-width: 700px){
 	.container .card .content li {
 	font-size: 13px;
 	}
