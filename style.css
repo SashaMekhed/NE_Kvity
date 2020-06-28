@@ -494,7 +494,7 @@ box-shadow: 10px 10px 36px 0px rgba(110,110,110,1);
 .container .card .content{
 	position: relative;
 	margin-top: -200px;
-	padding: 5px 5px;
+	padding: 3px 5px;
 	text-align: center;
 	visibility: hidden;
 	opacity: 0;
@@ -571,7 +571,7 @@ img.imgKvity {
 
 @media only screen and (min-width : 321px)  and (max-width: 480px) {
 .container .card .content li {
-	font-size: 14px;
+	font-size: 13px;
 
 }
 }
